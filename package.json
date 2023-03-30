@@ -3,7 +3,6 @@
   "version": "0.0.1",
   "description": "Made in love to p2w server called 'anarchia.gg'",
   "main": "main.cjs",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
