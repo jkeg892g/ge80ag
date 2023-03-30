@@ -7,10 +7,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "Slitherr",
   "license": "ISC",
   "dependencies": {
     "mineflayer": "^4.8.1",
-    "node-fetch": "^3.3.1"
+    "node-fetch": "^3.3.1",
+    "proxy-agent": "^5.0.0",
+    "socks": "^2.7.1",
   }
 }
